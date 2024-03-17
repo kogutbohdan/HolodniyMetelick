@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af60ad5.css",
+    "main.js": "/static/js/main.62f47111.js",
+    "static/js/453.7950062e.chunk.js": "/static/js/453.7950062e.chunk.js",
+    "static/media/gold_castel.obj": "/static/media/gold_castel.f4c5f8318aaf6de4173f.obj",
+    "static/media/logo.png": "/static/media/logo.1ab99b11ba10b760ec34.png",
+    "static/media/city.jpg": "/static/media/city.de5ad38164fc8195a519.jpg",
+    "static/media/header1.jpg": "/static/media/header1.edaf959da5ee7f89d4cb.jpg",
+    "static/media/section.jpg": "/static/media/section.4d57299ad675ee90cf11.jpg",
+    "static/media/section3.jpg": "/static/media/section3.ef510ed0b30e35e72374.jpg",
+    "static/media/header2.jpg": "/static/media/header2.8803638590f5f637b9e6.jpg",
+    "static/media/texture4.jpg": "/static/media/texture4.2b47bea1725c4d191f5e.jpg",
+    "static/media/texture3.jpg": "/static/media/texture3.7bcea32843d885b43924.jpg",
+    "static/media/header3.jpg": "/static/media/header3.0a50f9f2173ed2e84776.jpg",
+    "static/media/section2.jpg": "/static/media/section2.96a73f9b52cb0a7f961f.jpg",
+    "static/media/forest.jpg": "/static/media/forest.a525112d516389ff4f25.jpg",
+    "static/media/texture2.jpg": "/static/media/texture2.625394087ba51908f1f1.jpg",
+    "static/media/texture.jpg": "/static/media/texture.da6af467ac87a4da7162.jpg",
+    "static/media/corsars.jpg": "/static/media/corsars.87256b368c848b369b9d.jpg",
+    "index.html": "/index.html",
+    "main.4af60ad5.css.map": "/static/css/main.4af60ad5.css.map",
+    "main.62f47111.js.map": "/static/js/main.62f47111.js.map",
+    "453.7950062e.chunk.js.map": "/static/js/453.7950062e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af60ad5.css",
+    "static/js/main.62f47111.js"
+  ]
+}
